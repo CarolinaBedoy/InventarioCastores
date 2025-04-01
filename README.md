@@ -6,4 +6,4 @@ Lista de pasos para correr la aplicación:
 - Abrir terminal (ctrl+ñ)
 - Escribir "npm start" y dar enter. Esto para visualizar el frontend
 - Abrir otra terminal (ctrl+ñ)
-- Escribir "cd backend" y dar enter. Escribir "node server.js" y dar enter. Esro para conectar con la db
+- Escribir "cd backend" y dar enter. Escribir "node server.js" y dar enter. Esto para conectar con la db
